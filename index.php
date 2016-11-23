@@ -4,7 +4,7 @@
  * @author lolkittens
  * @copyright 2016
  */
-echo 'hello'; 
+echo 'hello am stage'; 
 
 
 ?>
